@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045433834994",
+    "project_id": "tvkconference-c341d",
+    "storage_bucket": "tvkconference-c341d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045433834994:android:1ab05dba18eed0d4a01f6b",
+        "android_client_info": {
+          "package_name": "com.example.tvk_maanadu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvjE63Zg7SzPbAEZrakWpFCKrfE7fPOLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
